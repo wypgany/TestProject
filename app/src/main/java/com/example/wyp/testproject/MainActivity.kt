@@ -17,6 +17,7 @@ class MainActivity : AppCompatActivity() {
         Log.d("aaa", "Develop's forth commit")
         Log.d("aaa", "Develop's fifth commit")
         Log.d("bbb", "Develop's first commit")
+        Log.d("bbb", "Develop's second commit")
     }
 
 

@@ -14,6 +14,7 @@ class MainActivity : AppCompatActivity() {
         val view: View = Button(this)
         view.showOff()
         Log.d("aaa", "Develop's second commit")
+        Log.d("aaa", "Develop's third commit")
     }
 
 

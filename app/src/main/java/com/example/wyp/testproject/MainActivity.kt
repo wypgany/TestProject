@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         val view: View = Button(this)
         view.showOff()
-        Log.d("aaa", "Develop's first commit")
+        Log.d("aaa", "Develop's second commit")
     }
 
 

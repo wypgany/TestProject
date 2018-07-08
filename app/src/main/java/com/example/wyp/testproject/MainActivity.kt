@@ -15,6 +15,7 @@ class MainActivity : AppCompatActivity() {
         view.showOff()
         Log.d("aaa", "Develop's second commit")
         Log.d("aaa", "Develop's third commit")
+        Log.d("aaa", "Develop's forth commit")
     }
 
 
